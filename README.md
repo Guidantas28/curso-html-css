@@ -1,2 +1,2 @@
-# curso-html-css
-Curso realizado na udemy Desenvolvimento web completo 2021 - Ministrado pelo Professor Jamilton Damasceno e Jorg Sant Ana
+# Curso Desenvolvimento Web
+Curso realizado na udemy Desenvolvimento Web completo 2021 - Ministrado pelo Professor Jamilton Damasceno e Jorg Sant Ana
